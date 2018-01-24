@@ -19,7 +19,7 @@
 #myTable th, #myTable td {
     text-align: left; /* Left-align text */
     padding: 12px; /* Add padding */
-    vertical-align:center;
+    vertical-align:top;
 }
 
 #myTable tr {
