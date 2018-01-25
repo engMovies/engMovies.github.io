@@ -77,7 +77,8 @@
 
 	html, body {
 		height: 100%;
-		overflow-x: hidden;
+		overflow: auto;
+		overflow: visible;
 		width: 100%;
 	}
 
@@ -451,7 +452,7 @@
 			display: block;
 			line-height: 1.75em;
 			padding: 1em 1.5em;
-			overflow-x: auto;
+			overflow-y: auto;
 		}
 
 	hr {
