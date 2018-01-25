@@ -134,7 +134,7 @@
 	}
 
 	input[type="checkbox"],
-	input[type="radio"], {
+	input[type="radio"], a {
 		@include vendor('appearance', 'none');
 		display: block;
 		float: left;

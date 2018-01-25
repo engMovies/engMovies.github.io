@@ -12,7 +12,8 @@
 
 	// MSIE: Required for IEMobile.
 		@-ms-viewport {
-			width: device-width;
+			//width: device-width;
+			width: auto;
 		}
 
 	// MSIE: Prevents scrollbar from overlapping content.
