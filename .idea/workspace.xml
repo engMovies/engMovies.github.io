@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="257bf66d-1085-4739-8357-54c7d117cbe3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/assets/sass/main.scss" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/adult.html" afterPath="$PROJECT_DIR$/adult.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adult.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="adult.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adult.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="172" column="43" lean-forward="true" selection-start-line="172" selection-start-column="43" selection-end-line="172" selection-end-column="43" />
+            <state relative-caret-position="357">
+              <caret line="170" column="50" lean-forward="false" selection-start-line="170" selection-start-column="50" selection-end-line="170" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -51,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="1197" column="28" lean-forward="false" selection-start-line="1197" selection-start-column="26" selection-end-line="1197" selection-end-column="28" />
+            <state relative-caret-position="450">
+              <caret line="1236" column="24" lean-forward="true" selection-start-line="1236" selection-start-column="24" selection-end-line="1236" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -89,12 +86,14 @@
       <find>a {</find>
       <find>Watch: &lt;a</find>
       <find>Watch: &lt;a class=&quot;btn-ani&quot;href</find>
+      <find>http:</find>
     </findStrings>
     <replaceStrings>
       <replace>Watch: &lt;a class=&quot;btn-adult&quot;</replace>
       <replace>Watch</replace>
       <replace>Watch: &lt;a class=&quot;btn-ani&quot;</replace>
       <replace>Watch: &lt;a class=&quot;btn-ani&quot; href</replace>
+      <replace>https:</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -113,12 +112,12 @@
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/assets/css/table.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/adult.html" />
         <option value="$PROJECT_DIR$/assets/sass/main.scss" />
         <option value="$PROJECT_DIR$/assets/sass/libs/_skel.scss" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/sass/base/_page.scss" />
         <option value="$PROJECT_DIR$/assets/sass/components/_form.scss" />
+        <option value="$PROJECT_DIR$/adult.html" />
       </list>
     </option>
   </component>
@@ -308,12 +307,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516752795827</updated>
       <workItem from="1516752799753" duration="5771000" />
-      <workItem from="1516768034862" duration="13023000" />
+      <workItem from="1516768034862" duration="13959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18794000" />
+    <option name="totallyTimeSpent" value="19730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="0" />
@@ -618,20 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adult.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="172" column="43" lean-forward="true" selection-start-line="172" selection-start-column="43" selection-end-line="172" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -649,9 +634,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="1197" column="28" lean-forward="false" selection-start-line="1197" selection-start-column="26" selection-end-line="1197" selection-end-column="28" />
+        <state relative-caret-position="450">
+          <caret line="1236" column="24" lean-forward="true" selection-start-line="1236" selection-start-column="24" selection-end-line="1236" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adult.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="170" column="50" lean-forward="false" selection-start-line="170" selection-start-column="50" selection-end-line="170" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
