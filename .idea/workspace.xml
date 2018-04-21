@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="257bf66d-1085-4739-8357-54c7d117cbe3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/adult.html" beforeDir="false" afterPath="$PROJECT_DIR$/adult.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,19 +18,19 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="568" column="32" selection-start-line="568" selection-start-column="32" selection-end-line="568" selection-end-column="32" />
+            <state relative-caret-position="278">
+              <caret line="656" column="29" lean-forward="true" selection-start-line="656" selection-start-column="29" selection-end-line="656" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3679#3696#0" expanded="true" />
-                <element signature="e#3721#3769#0" expanded="true" />
-                <element signature="e#3795#3812#0" expanded="true" />
-                <element signature="e#3843#3881#0" expanded="true" />
-                <element signature="e#12378#26495#0" expanded="true" />
-                <element signature="e#30708#30714#0" expanded="true" />
+                <element signature="e#3883#3901#0" expanded="true" />
+                <element signature="e#3926#3974#0" expanded="true" />
+                <element signature="e#4000#4018#0" expanded="true" />
+                <element signature="e#4049#4087#0" expanded="true" />
+                <element signature="e#13123#27240#0" expanded="true" />
+                <element signature="e#55125#55131#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,7 +39,7 @@
       <file leaf-file-name="adult.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adult.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
+            <state relative-caret-position="2625">
               <caret line="175" column="120" selection-start-line="175" selection-start-column="120" selection-end-line="175" selection-end-column="120" />
             </state>
           </provider>
@@ -157,8 +157,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,7 +186,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,11 +309,12 @@
       <workItem from="1524092657926" duration="314000" />
       <workItem from="1524107140254" duration="294000" />
       <workItem from="1524268364412" duration="3595000" />
+      <workItem from="1524272178538" duration="131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44689000" />
+    <option name="totallyTimeSpent" value="44820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
@@ -332,7 +333,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13662376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13805436" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -699,26 +700,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/adult.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
+        <state relative-caret-position="2625">
           <caret line="175" column="120" selection-start-line="175" selection-start-column="120" selection-end-line="175" selection-end-column="120" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="568" column="32" selection-start-line="568" selection-start-column="32" selection-end-line="568" selection-end-column="32" />
+        <state relative-caret-position="278">
+          <caret line="656" column="29" lean-forward="true" selection-start-line="656" selection-start-column="29" selection-end-line="656" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3679#3696#0" expanded="true" />
-            <element signature="e#3721#3769#0" expanded="true" />
-            <element signature="e#3795#3812#0" expanded="true" />
-            <element signature="e#3843#3881#0" expanded="true" />
-            <element signature="e#12378#26495#0" expanded="true" />
-            <element signature="e#30708#30714#0" expanded="true" />
+            <element signature="e#3883#3901#0" expanded="true" />
+            <element signature="e#3926#3974#0" expanded="true" />
+            <element signature="e#4000#4018#0" expanded="true" />
+            <element signature="e#4049#4087#0" expanded="true" />
+            <element signature="e#13123#27240#0" expanded="true" />
+            <element signature="e#55125#55131#0" expanded="true" />
           </folding>
         </state>
       </provider>
